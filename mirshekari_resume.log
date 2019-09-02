@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 SEP 2019 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 SEP 2019 17:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1058,31 +1058,38 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-
- []
-
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 214.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 216.
+
+
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (./mirshekari_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 237.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
 Package rerunfilecheck Info: File `mirshekari_resume.out' has not changed.
-(rerunfilecheck)             Checksum: 5BEEFC2DAE38017EABE524FBBD3363B6;1333.
+(rerunfilecheck)             Checksum: 05A124A39994858AB5DAC3171174217B;1376.
  ) 
 Here is how much of TeX's memory you used:
- 31234 strings out of 492616
- 578095 string characters out of 6129482
- 648785 words of memory out of 5000000
+ 31258 strings out of 492616
+ 578345 string characters out of 6129482
+ 645785 words of memory out of 5000000
  34711 multiletter control sequences out of 15000+600000
- 595629 words of font info for 82 fonts, out of 8000000 for 9000
+ 596666 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,65p,837b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,65p,783b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 19/texmf-dist/fonts/type1/public/lm/lmbx7.pfb></usr/local/texlive/2019/texmf-di
@@ -1093,10 +1100,10 @@ fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texliv
 e/2019/texmf-dist/fonts/type1/public/lm/lmro9.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on mirshekari_resume.pdf (2 pages, 264251 bytes).
+Output written on mirshekari_resume.pdf (2 pages, 264100 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
  23133 words of extra memory for PDF output out of 24883 (max. 10000000)
 
