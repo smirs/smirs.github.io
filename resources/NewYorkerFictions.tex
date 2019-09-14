@@ -1,0 +1,109 @@
+\documentclass[a4paper,12pt, twoside]{book}
+\usepackage{graphicx} % inserting images
+\usepackage{wrapfig}
+\usepackage[hang]{footmisc}
+\usepackage[pages=some]{background}
+\usepackage{indentfirst}
+\usepackage{amssymb}
+\usepackage{tocloft}
+\usepackage{draftwatermark}
+
+\usepackage{hyperref} % PDF links
+\usepackage{setspace} % for switching between double/single space in document
+\usepackage{fancyhdr} % package for changing Headings style
+% setting the margins of page
+\usepackage[top=3cm,right=3cm,bottom=2.5cm,left=2.5cm]{geometry}                 
+\usepackage{xepersian}
+
+\SetWatermarkText{این نسخه برای انتشار تجاری نیست و تمام حقوق مادی و معنوی این اثر برای ناشر، نویسنده و مترجم محفوظ است.}
+\SetWatermarkScale{0.03}
+\SetWatermarkAngle{90}
+\SetWatermarkVerCenter{3.4cm}
+\SetWatermarkHorCenter{.25cm}
+\SetWatermarkColor[rgb]{0,0,0}
+
+% tell tex engine address of folder containing your pictures
+\graphicspath{{images/}}
+
+% commands to print the page number in header
+\pagestyle{fancy}
+\cfoot{}
+%\lhead{\thepage}
+%\rhead{\faAuthor}
+\fancyhead[RE,LO]{\small\thepage}
+\fancyhead[LE]{\small  داستان‌های نیویورکر به فارسی}% odd page header and number to right top
+
+%\fancyfoot[RE,LO]{\includegraphics[width=0.075\textwidth]{twitter_tny}}
+
+% commands related to XePersian package
+\settextfont[Scale=1.1]{XB Zar}
+\setdigitfont{XB Zar}
+%\setlatintextfont{LinLibertine}
+% -------------------------------------
+
+\input{jeld_info}
+
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=0.4,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{/the_presentation_on_egypt}
+  }%
+}
+
+\newcommand\chapterinvisible[1]{%
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+  \protect\chaptermark{#1}}
+
+
+\begin{document}
+%\include{cover_fa}
+%\include{taeid}
+%\include{intro_fa}
+
+\pagenumbering{harfi}
+%\tableofcontents
+%\listoffigures
+%\listoftables
+
+% insert each of your chapters with a \inlcude{filename} command as below
+\doublespacing
+\include{chap1}
+%\include{chap2}
+%\LTRfootnote\LTRfootnote\include{chap2}
+% -----------------------------------------------------------------------
+
+\settextfont[Scale=1.1]{XB Zar}
+\vspace*{\fill}
+\small
+\center{
+
+\includegraphics[width=3cm]{./twitter_tny.png}\\
+%\scriptsize
+\footnotesize
+این نسخه برای انتشار تجاری 
+\underline{نیست}
+ و تمام حقوق مادی و معنوی این اثر برای ناشر، نویسنده و مترجم محفوظ است.\\
+
+\noindent
+\scriptsize
+اگر علاقه‌مند به همکاری هستید یا قصد دارید از این ترجمه درجای دیگری استفاده کنید در
+\underline{\href{https://twitter.com/TheNewYorker_fa}{توییتر}} و یا
+\underline{\href{https://t.me/TheNewYorker_inFarsi}{تلگرام}}
+با ما تماس بگیرید.
+}
+% If do not have appendix then comment following 3 lines
+%\appendix
+%\include{peyvast1}
+%\include{peyvast2}
+% -------------------------------------------------------
+
+\singlespacing
+%\include{references}
+%\include{intro_en}
+%\include{cover_en}
+
+\end{document}
