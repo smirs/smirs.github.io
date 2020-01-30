@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 DEC 2019 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  28 JAN 2020 14:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -881,29 +881,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 45.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 45.
+Package hyperref Info: Option `breaklinks' set `true' on input line 47.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 47.
 
 (./mirshekari_resume.aux)
 \openout1 = `mirshekari_resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 47.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -938,7 +938,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 45.
+LaTeX Info: Redefining \microtypecontext on input line 47.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -989,7 +989,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box88
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring OFF on input line 47.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -998,43 +998,43 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 45.
-LaTeX Info: Redefining \pageref on input line 45.
-LaTeX Info: Redefining \nameref on input line 45.
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
 
 (./mirshekari_resume.out) (./mirshekari_resume.out)
 \@outlinefile=\write4
 \openout4 = `mirshekari_resume.out'.
 
 \makecvheaddetailsbox=\box89
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 49.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 47.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 49.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 47.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 49.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 47.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 49.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 47.
+(Font)              <9> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 47.
+(Font)              <6> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 47.
+(Font)              <5> on input line 49.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -1044,14 +1044,14 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 \makecvheadpicturewidth=\skip84
 \makecvheadnamebox=\box91
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 53.
+(Font)              <10> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 53.
+(Font)              <7> on input line 55.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1062,28 +1062,28 @@ Package microtype Info: Character `029' is missing
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package hyperref Warning: Suppressing link with empty target on input line 217.
+Package hyperref Warning: Suppressing link with empty target on input line 219.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 220.
+Package hyperref Warning: Suppressing link with empty target on input line 222.
 
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
  (./mirshekari_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 262.
 Package rerunfilecheck Info: File `mirshekari_resume.out' has not changed.
 (rerunfilecheck)             Checksum: 05A124A39994858AB5DAC3171174217B;1376.
  ) 
 Here is how much of TeX's memory you used:
- 31250 strings out of 492616
- 578267 string characters out of 6129482
- 645785 words of memory out of 5000000
+ 31248 strings out of 492616
+ 578245 string characters out of 6129482
+ 646770 words of memory out of 5000000
  34711 multiletter control sequences out of 15000+600000
- 596334 words of font info for 90 fonts, out of 8000000 for 9000
+ 596251 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,65p,783b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -1096,7 +1096,7 @@ fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texliv
 e/2019/texmf-dist/fonts/type1/public/lm/lmro9.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on mirshekari_resume.pdf (2 pages, 264574 bytes).
+Output written on mirshekari_resume.pdf (2 pages, 265630 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  95 compressed objects within 1 object stream
